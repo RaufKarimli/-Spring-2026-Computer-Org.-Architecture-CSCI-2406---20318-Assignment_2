@@ -2,7 +2,7 @@
 
 **Name:** Rauf Karimli
 
-Video link: **PASTE YOUR UNLISTED YOUTUBE VIDEO LINK HERE**
+Video link: ** **
 
 ## Goal
 
