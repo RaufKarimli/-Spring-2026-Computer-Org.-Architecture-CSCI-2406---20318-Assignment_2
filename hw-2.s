@@ -1,7 +1,6 @@
 // CSCI 2406 Homework #2
 // Name: Rauf Karimli
 // Reverse engineered from the given ARM32 hexadecimal dump.
-// File name required by assignment: hw-2.s
 
 .global _start
 
